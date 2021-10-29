@@ -1,5 +1,3 @@
 
-## Run Spring Boot application
-```
-mvn spring-boot:run
-```
+## Spring-boot
+Run `mvn clean install`, then run `mvn spring-boot:run`
